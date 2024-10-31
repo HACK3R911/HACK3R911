@@ -12,4 +12,5 @@ I’m Software developer<br> I’m looking to collaborate on something interesti
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=HACK3R911&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=HACK3R911&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DDenverCoder1%26type%3Djson)
