@@ -9,3 +9,7 @@ I’m Software developer<br> I’m looking to collaborate on something interesti
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitActions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=HACK3R911&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
